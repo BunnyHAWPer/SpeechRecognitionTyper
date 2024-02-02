@@ -23,10 +23,12 @@ SpeechRecognitionTyper is a simple Python script that utilizes speech recognitio
 
 1) Install the required dependencies:
 
+   ```bash
    pip install -r requirements.txt
    run this command to instal PyAutoGUI and SpeechRecognition
 
-2) Run the script:
+3) Run the script:
+   ```bash
    python main.py
 
 
