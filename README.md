@@ -19,7 +19,7 @@ SpeechRecognitionTyper is a simple Python script that utilizes speech recognitio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/voice-typing-bot.git
+   git clone https://github.com/BunnyHAWPer/SpeechRecognitionTyper.git
 
 1) Install the required dependencies:
 
